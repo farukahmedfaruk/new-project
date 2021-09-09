@@ -1,0 +1,37 @@
+h1{
+ color: rgb(5, 148, 29);
+text-align: center;
+}
+h2{
+    text-align: center;
+}
+.top-mama{
+    width: 380px;
+    height: 450px;
+    border-radius: 9px;
+    text-align: center;
+    background-color: rgb(0, 100, 38);
+    box-shadow: 5px 6px 7px crimson;
+   margin: 15px;
+margin-left: 450px;
+}
+.top-mama img{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    height: 260px;
+border-radius: 10px;
+
+}
+.top-mama button{
+    border-radius: 5px;
+    background-color: gold;
+    border-color: wheat;
+    font-size: medium;
+    text-align: center;
+}
+.card-container{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
